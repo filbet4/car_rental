@@ -1,5 +1,4 @@
 import psycopg
-import hashlib
 
 DB_NAME = "car_rental"
 DB_USER = "postgres"
