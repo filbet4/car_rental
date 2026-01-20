@@ -4,6 +4,7 @@ __pycache__/
 *.pyo
 *.pyd
 *.egg-info/
+*.cfg
 .pytest_cache/
 .coverage
 coverage.xml
